@@ -40,4 +40,8 @@ h2{
               text-shadow: 2px 3px 4px #000;
               font-family: Georgia, 'Times New Roman', Times, serif;
 }
+p{
+              border: 3px solid ;
+              text-shadow: 2px 3px 4px #000;
+}
 

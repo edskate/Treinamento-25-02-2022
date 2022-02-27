@@ -1,5 +1,7 @@
 {
               "spellchecker.ignoreWordsList": [
-                            "Estudos"
-              ]
+                            "Estudos",
+                            "Treinamento"
+              ],
+              "livePreview.defaultPreviewPath": "/index02.html"
 }
